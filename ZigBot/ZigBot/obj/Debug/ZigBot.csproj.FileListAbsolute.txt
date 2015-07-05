@@ -17,3 +17,13 @@ C:\Users\zignd\Desktop\ZigBot\ZigBot\obj\Debug\ZigBot.csprojResolveAssemblyRefer
 C:\Users\zignd\Desktop\ZigBot\ZigBot\bin\Debug\HtmlAgilityPack.dll
 C:\Users\zignd\Desktop\ZigBot\ZigBot\bin\Debug\HtmlAgilityPack.pdb
 C:\Users\zignd\Desktop\ZigBot\ZigBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\zignd\Documents\GitHub\ZigBot\ZigBot\ZigBot\bin\Debug\ZigBot.exe.config
+C:\Users\zignd\Documents\GitHub\ZigBot\ZigBot\ZigBot\obj\Debug\ZigBot.exe
+C:\Users\zignd\Documents\GitHub\ZigBot\ZigBot\ZigBot\obj\Debug\ZigBot.pdb
+C:\Users\zignd\Documents\GitHub\ZigBot\ZigBot\ZigBot\bin\Debug\ZigBot.exe
+C:\Users\zignd\Documents\GitHub\ZigBot\ZigBot\ZigBot\bin\Debug\ZigBot.pdb
+C:\Users\zignd\Documents\GitHub\ZigBot\ZigBot\ZigBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\zignd\Documents\GitHub\ZigBot\ZigBot\ZigBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zignd\Documents\GitHub\ZigBot\ZigBot\ZigBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\zignd\Documents\GitHub\ZigBot\ZigBot\ZigBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\zignd\Documents\GitHub\ZigBot\ZigBot\ZigBot\bin\Debug\Newtonsoft.Json.xml

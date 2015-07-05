@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ZigBot.Types;
 
-namespace ZigBot.Commands
+namespace ZigBot.Commands.Interfaces
 {
     public interface ICommand
     {

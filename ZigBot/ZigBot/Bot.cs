@@ -13,6 +13,7 @@ using ZigBot.Types;
 using System.Threading;
 using System.Diagnostics;
 using ZigBot.Commands;
+using ZigBot.Commands.Interfaces;
 
 namespace ZigBot
 {
@@ -62,20 +63,6 @@ namespace ZigBot
         #endregion
 
         #region Public Methods
-
-        public void Test()
-        {
-            //HtmlWeb web = new HtmlWeb();
-            //HtmlDocument doc = web.Load("http://www.dicio.com.br/fuleco/");
-
-            //var a = this.HtmlFind(doc.DocumentNode.ChildNodes, "h1",
-            //    new KeyValuePair<string, string>("itemprop", "name"));
-
-            //var b = this.HtmlFind(doc.DocumentNode.ChildNodes, "p",
-            //    new KeyValuePair<string, string>("itemprop", "description"),
-            //    new KeyValuePair<string, string>("id", "significado"),
-            //    new KeyValuePair<string, string>("class", "name"));
-        }
 
         public void Start()
         {
@@ -177,7 +164,6 @@ namespace ZigBot
             }
         }
 
-        // TODO: Implementar reply_markup
         public void SendMessage(int chatId, string text, bool? disableWebPagePreview = null, int? replyToMessageId = null, string replyMarkup = null)
         {
             StringBuilder query = new StringBuilder();
@@ -259,20 +245,5 @@ namespace ZigBot
         }
 
         #endregion
-
-        //private JArray ExtractUpdatesToHandle(JArray updates)
-        //{
-        //    if (File.Exists(this.filePath))
-        //    {
-        //        int lastHandledUpdateId = Convert.ToInt32(File.ReadAllText(this.filePath));
-
-        //        updates = (from update in updates
-        //                   where lastHandledUpdateId == Convert.ToInt32(update["update_id"])
-        //                   let updatesToHandle = updates.Skip(updates.IndexOf(update) + 1).ToArray()
-        //                   select JArray.FromObject(updatesToHandle)).SingleOrDefault();
-        //    }
-
-        //    return updates;
-        //}
     }
 }
