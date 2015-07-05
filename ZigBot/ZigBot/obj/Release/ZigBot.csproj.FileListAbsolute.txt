@@ -1,0 +1,7 @@
+C:\Users\zignd\Desktop\ZigBot\ZigBot\bin\Release\ZigBot.exe.config
+C:\Users\zignd\Desktop\ZigBot\ZigBot\bin\Release\ZigBot.exe
+C:\Users\zignd\Desktop\ZigBot\ZigBot\bin\Release\ZigBot.pdb
+C:\Users\zignd\Desktop\ZigBot\ZigBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\zignd\Desktop\ZigBot\ZigBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\zignd\Desktop\ZigBot\ZigBot\obj\Release\ZigBot.exe
+C:\Users\zignd\Desktop\ZigBot\ZigBot\obj\Release\ZigBot.pdb
